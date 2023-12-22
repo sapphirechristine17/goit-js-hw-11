@@ -67,7 +67,7 @@ function renderGallery(hits) {
     .firstElementChild.getBoundingClientRect();
 
   window.scrollBy({
-    top: 0,
+    top: 0%,
     behavior: 'smooth',
   });
 
